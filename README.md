@@ -2,24 +2,17 @@
 
 Solutions to Week2 Assignment
 
-<h3> Challenges </h3>
-
+<b> Challenges </b>
 * [WordMap](WordMap.swift)
 * [ReverseWordMap](ReverseWordMap.swift)
 
-<h3> Linked List Problems </h3>
-
+<b> Linked List Problems </b>
 * [MergeTwoSortedLists](https://github.com/prelangi/CP_IP_BeforeSession_Week2/blob/master/MergeTwoSortedLists.cpp)
-
 * [AddTwoNumbers](https://github.com/prelangi/CP_IP_BeforeSession_Week2/blob/master/AddTwoNumbers.swift) 
-
 * [PartitionList](PartitionList.cpp)
-
 * 
-
   
-  
-<h3> Hashing Problems </h3>
+<b> Hashing Problems </b>
 
 1.
 

@@ -2,6 +2,10 @@
 
 Solutions to Week2 Assignment
 
+<h3> Challenges </h3>
+
+* [WordMap] 
+
 <h3> Linked List Problems </h3>
 
 1. 

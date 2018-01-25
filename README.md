@@ -5,6 +5,7 @@ Solutions to Week2 Assignment
 <h3> Challenges </h3>
 
 * [WordMap](WordMap.swift)
+* [ReverseWordMap](ReverseWordMap.swift)
 
 <h3> Linked List Problems </h3>
 

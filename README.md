@@ -10,14 +10,8 @@ Solutions to Week2 Assignment
 * [MergeTwoSortedLists](https://github.com/prelangi/CP_IP_BeforeSession_Week2/blob/master/MergeTwoSortedLists.cpp)
 * [AddTwoNumbers](https://github.com/prelangi/CP_IP_BeforeSession_Week2/blob/master/AddTwoNumbers.swift) 
 * [PartitionList](PartitionList.cpp)
-* 
+* [ReverseLinkedList2](ReverseLinkedList2.cpp)
   
 <b> Hashing Problems </b>
-
-1.
-
-2.
-
-3.
-
-4.
+* [ColorfulNumbers](https://github.com/prelangi/CP_IP_BeforeSession_Week2/blob/master/colorfulNumber.swift)
+* [Anagrams](https://github.com/prelangi/CP_IP_BeforeSession_Week2/blob/master/Anagrams.swift)

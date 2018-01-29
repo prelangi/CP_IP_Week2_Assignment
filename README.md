@@ -15,3 +15,6 @@ Solutions to Week2 Assignment
 <b> Hashing Problems </b>
 * [ColorfulNumbers](https://github.com/prelangi/CP_IP_BeforeSession_Week2/blob/master/colorfulNumber.swift)
 * [Anagrams](https://github.com/prelangi/CP_IP_BeforeSession_Week2/blob/master/Anagrams.swift)
+* [Fraction](Fraction.swift)
+* [MaxPointsOnAStraightLine](MaxPointsOnAStraightLine.cpp)
+* [SubstringConcatenation](SubstringConcatenation.swift)
